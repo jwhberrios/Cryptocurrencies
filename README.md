@@ -1,2 +1,2 @@
 # Cryptocurrencies
-Unsupervised machine learning.
+Using unsupervised machine learning techniques to analyze cryptocurrency data.
