@@ -33,5 +33,7 @@ As presented in the 3-D graph above, using the PCA algorithm, the crytocurrencie
 
 As presented in the 2-D scatter plot above, using the PCA algorithm, the crytocurrencies dimensions was reduced to two principal components.
 
+Plotting the scatter plot from two cryptocurrency features does not provide a clear visual of the different classes. The data points are hard to visually decipher as compared to the 3-d scatterplot, which is more visually easier to comprehend using the PCA algorithm.
+
 # Summary
 With a total of 577 classifications of cryptocurrencies identified based on the similarities of their features, specific features of each classification group should further be analyzed to ensure the portolio proposed from these analyses is as robust as possible for the best interest of the clients of the investment bank.
