@@ -8,4 +8,7 @@ The purpose of this analysis was to analyze various cryptocurrencies on the mark
 * Clustering cryptocurrencies using K-Means
 * Visualizing classification results with 2D and 3D scatter plots
 
+# Resources
+* Data Source: crypto_data.csv
+* Python 3.7.11, Jupyter Notebook 6.4.5 [using mlenv environment].
 
