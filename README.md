@@ -14,3 +14,19 @@ The purpose of this analysis was to analyze various cryptocurrencies on the mark
 
 # Results
 **There were a total of 577 tradable cryptocurrencies** after `preprocessing the database`, `reduce the data dimensions using PCA`, and then `cluster the cryptocurrencies using K-Means`.
+
+#### Finding the best value for k using an elbow curve:
+![elbow_curve](https://github.com/jwhberrios/Cryptocurrencies/blob/main/Resources/elbow_curve.png)
+
+As presented in the elbow curve above, the k value is 4. This k value in inputted into a k-means model to predict cryptocurrencies into 4 clusters.
+
+#### 3-D scatter plot with clusters
+
+![3d_graph](https://github.com/jwhberrios/Cryptocurrencies/blob/main/Resources/3d_chart.png)
+
+As presented in the 3-D graph above, using the PCA algorithm, the crytocurrencies dimensions were reduced to three principal components (PC1, PC2, PC3).
+
+
+#### 2-D plot with clusters
+
+
