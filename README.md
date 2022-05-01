@@ -29,4 +29,7 @@ As presented in the 3-D graph above, using the PCA algorithm, the crytocurrencie
 
 #### 2-D plot with clusters
 
+![2d_plot](https://github.com/jwhberrios/Cryptocurrencies/blob/main/Resources/2D_plot.png)
+
+As presented in the 2-D scatter plot above, using the PCA algorithm, the crytocurrencies dimensions was reduced to two principal components.
 
